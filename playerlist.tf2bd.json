@@ -7,6 +7,6 @@
         ],
         "description": "List of Bot Detector users found by d3fc0n6.",
         "title": "Bot Detector users",
-        "update_url": "< Insert the URL of your hosted ConvertPazerList.php file! >"
+        "update_url": "https://raw.githubusercontent.com/d3fc0n6/PazerList/master/playerlist.tf2bd.json"
     }
 }
