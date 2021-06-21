@@ -8,7 +8,6 @@ if (isset($_GET["as"])) {
 }
 
 $chList = file_get_contents("https://raw.githubusercontent.com/d3fc0n6/PazerList/master/list.cfg");
-$currentURL = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "http") . "://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
 
 // Convert all players
 $playerArray = [];
@@ -32,7 +31,7 @@ $bdArray = [
         "authors" => [ "WalterWhite3", "d3fc0n6" ],
         "description" => "List of Bot Detector users found by d3fc0n6.",
         "title" => "Bot Detector users",
-        "update_url" => $currentURL
+        "update_url" => "https://raw.githubusercontent.com/d3fc0n6/PazerList/master/playerlist.tf2bd.json"
     ],
     "players" => $playerArray
 ];
