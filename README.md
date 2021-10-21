@@ -1,6 +1,5 @@
 # PazerList
 Compilation of [Pazer Antibot software](https://github.com/PazerOP/tf2_bot_detector) users who have sent out their "Attention!" message.
-Feel free to send a PR for more ids.
 
 **To make sure you do not still have the old list, ensure you delete your /opt/cathook/data/plist file in order to delete old entries before installing this list.**
 
