@@ -1,4 +1,6 @@
 # PazerList
+
+## This repo will be archived. Please see the [BotList](https://github.com/d3fc0n6/BotList) repo for more info
 Compilation of [Pazer Antibot software](https://github.com/PazerOP/tf2_bot_detector) users who have sent out their "Attention!" message.
 
 **To make sure you do not still have the old list, ensure you delete your /opt/cathook/data/plist file in order to delete old entries before installing this list.**
